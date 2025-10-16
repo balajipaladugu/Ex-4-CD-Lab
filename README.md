@@ -67,6 +67,8 @@ void yyerror(const char *msg) {
     printf("Invalid variable name\n");
 }
 ```
+
+
 # Output
 <img width="668" height="573" alt="image" src="https://github.com/user-attachments/assets/68605077-1e2e-4f58-87c3-c9dcb5667b41" />
 
